@@ -1,2 +1,4 @@
 # TicTacToeGUI
-TicTacToe built in Java with a GUI
+
+This program is TicTacToe with a GUI interface built
+using java and the eclipse ide.
